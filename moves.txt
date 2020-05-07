@@ -1,0 +1,4 @@
+a2 a3,white
+b7 b6,black
+a3 a4,white
+b6 b5,black
